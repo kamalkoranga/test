@@ -69,3 +69,9 @@ df_filtered.to_excel("potential_hackathon_sponsors.xlsx", index=False)
 print("Done ✅")
 print(f"Total startups scraped: {len(df)}")
 print(f"Potential sponsors found: {len(df_filtered)}")
+
+
+
+# asdasfjnakfn
+sfkjsdlfsdkfj
+asdjalksjdkasf
